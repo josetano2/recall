@@ -1,0 +1,18 @@
+package edu.bluejack23_2.recall.ui.util
+
+object Routes {
+
+    const val REGISTER_SCREEN = "REGISTER_SCREEN";
+    const val LANDING_SCREEN = "LANDING_SCREEN";
+    const val LOGIN_SCREEN = "LOGIN_SCREEN";
+    const val HOME_SCREEN = "HOME_SCREEN"
+    const val EXPLORE_SCREEN = "EXPLORE_SCREEN"
+    const val PROFILE_SCREEN = "PROFILE_SCREEN"
+    const val RANKED_SCREEN = "RANKED_SCREEN"
+    const val ADD_DECK_SCREEN = "ADD_DECK_SCREEN"
+    const val PROFILE_UPDATE_DETAIL_SCREEN = "PROFILE_UPDATE_DETAIL_SCREEN"
+    const val DECK_DETAIL_SCREEN = "DECK_DETAIL_SCREEN"
+    const val RECALL_SCREEN = "RECALL_SCREEN"
+    const val PROFILE_SCREEN_INDEX = 4
+    const val RECALL_FINISH_SCREEN = "RECALL_FINISH_SCREEN"
+}
