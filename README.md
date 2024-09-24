@@ -7,7 +7,7 @@
 
 ## 🚀 Motivation
 
-Me and my partner `josetano2` wanted to create an app that enables us to learn quickly using flashcards. We thought Anki is an amazing app, but we wanted to extend it's capabilities further.
+Me and my partner `LGKentang` wanted to create an app that enables us to learn quickly using flashcards. We thought Anki is an amazing app, but we wanted to extend it's capabilities further.
 
 ## 🌟 Features
 
