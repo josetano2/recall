@@ -1,0 +1,23 @@
+Application Name: Recall
+Short Description:
+A flashcard application that uses spaced repetition to help users memorize information efficiently.
+
+Long Description:
+Recall is a one-stop place to review, relearn, and recall your custom-made questions. Each response you provide is engineered to pick out cards, creating a new one in the future to stimulate your memory and effectively reinforce the learned materials. This approach ensures that you focus on areas needing improvement while solidifying your overall knowledge base.
+
+Key Features:
+
+Deck Creation: Create your own customized flashcards.
+Shared Decks: Decks are shared globally; you can try out decks from other users worldwide.
+Recall: Try out decks by playing them and providing responses to the questions.
+Summary: The system evaluates your responses and the cards you played, handing out the results to you.
+Recall can be used to review materials, learn a new language worldwide, teach kids to read, and many more use cases! Download Recall now to enhance your recalling ability and conquer any subjects!
+
+Category: Education
+
+Dummy Credentials:
+
+Email: josetano2@gmail.com
+Password: josetano2
+Email: x@gmail.com
+Password: x1234567
